@@ -1,0 +1,6 @@
+.footer__social-icons {
+    list-style: none;
+  }
+  .footer_social-icons a, li {
+    margin-top: 20px;
+  }

@@ -1,0 +1,12 @@
+.kaufman__triangle {
+    width: 660px;
+    height: 636px;
+    position: absolute;
+    right: -55px;
+    top: 230px;
+    z-index: -1;
+  }
+  .kaufman__triangle_rotation {
+    transform: skew(-30deg,30deg) translate(70px,35px) scale(1.1);
+    animation: rotation 20s linear infinite;
+  }

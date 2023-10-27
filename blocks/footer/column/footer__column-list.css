@@ -1,0 +1,9 @@
+.footer__column-list {
+    display: block;
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    list-style: none;
+    color: #f2f2f2;
+  }

@@ -1,0 +1,14 @@
+.header {
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    position: relative;
+    background-color: #f2f2f2;
+    overflow: hidden;
+    /* parameters for the header section */
+  }
+  .flex-container {
+    display: flex;
+    align-items: center;
+    height: 80%;
+  }
