@@ -1,5 +1,5 @@
 .page {
-    width: 100%;
+    width: 1280px;
     min-width: 250px;
     /* we don't know how to make mobile versions of websites yet, */
     /* so here we've set a minimum page width */
