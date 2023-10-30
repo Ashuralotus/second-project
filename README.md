@@ -3,5 +3,5 @@
 Contact :
 EMail : adityafauzi25@gmail.com
 
-click to see the project below :
+click to see this project :
 https://ashuralotus.github.io/second-project/
